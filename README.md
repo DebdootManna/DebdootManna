@@ -9,9 +9,19 @@ Hi there! I'm a cybersecurity enthusiast and electronic music producer, always e
 - 🔬 Exploring cutting-edge tech, novel ideas, and thought-provoking concepts
 - 📚 Currently a student, embracing the learning journey
 
+## Programming Languages
+- Java (Most proficient)
+- C++
+- C (Basics)
+
 I thrive on the excitement of discovering new technologies and pushing the boundaries of what's possible. Whether I'm producing a track or dissecting a security vulnerability, I bring the same passion and curiosity to everything I do.
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about music, tech, or anything in between!
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?DebdootManna=YourGitHubUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?DebdootManna=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
 
