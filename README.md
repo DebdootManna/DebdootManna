@@ -10,7 +10,11 @@ Hi there! I'm a cybersecurity enthusiast and electronic music producer, always e
 - 📚 Currently a student, embracing the learning journey
 
 ## Programming Languages
-- Java (Most proficient)
+- Java
+- Javascript
+- Typescript
+- HTML
+- CSS
 - C++
 - C (Basics)
 
