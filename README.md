@@ -27,8 +27,6 @@ Feel free to explore my repositories and don't hesitate to reach out if you want
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DebdootManna&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DebdootManna&theme=react-dark)
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DebdootManna&theme=onestar)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DebdootManna&layout=compact&theme=radical)
