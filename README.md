@@ -32,7 +32,7 @@ When I’m not coding, you’ll find me producing electronic music. I go by the 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebdootManna&theme=radical" alt="GitHub Streak Stats">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=DebdootManna&theme=onestar" alt="GitHub Trophies">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebdootManna&theme=radical" alt="GitHub Profile Summary">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdootManna&layout=compact&theme=radical" alt="Top Languages">
 </div>
