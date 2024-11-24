@@ -1,14 +1,14 @@
-# 🎵 A musician who hacks computers 💻
+#  A musician who hacks computers 
 
 Hi there! I'm a cybersecurity enthusiast, NextJS expert, and electronic music producer, always eager to explore the intersection of technology and creativity.
 
 ## About Me
-- 🎹 Crafting beats and melodies in the digital realm
-- 🔐 Delving into the world of cybersecurity
-- 🧠 Perpetual learner, constantly seeking new knowledge
-- 🔬 Exploring cutting-edge tech, novel ideas, and thought-provoking concepts
-- 📚 Currently a student, embracing the learning journey
-- 🚀 Leveraging Supabase for databases and Vercel for deployments
+-  Crafting beats and melodies in the digital realm
+-  Delving into the world of cybersecurity
+-  Perpetual learner, constantly seeking new knowledge
+-  Exploring cutting-edge tech, novel ideas, and thought-provoking concepts
+-  Currently a student, embracing the learning journey
+-  Leveraging Supabase for databases and Vercel for deployments
 
 ## Programming Languages
 - Java
@@ -25,11 +25,11 @@ Feel free to explore my repositories and don't hesitate to reach out if you want
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DebdootManna&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DebdootManna&theme=onestar)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DebdootManna&layout=compact&theme=radical)
+<div class="stats-container">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebdootManna&theme=radical">
+  <img src="https://github-profile-trophy.vercel.app/?username=DebdootManna&theme=onestar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdootManna&layout=compact&theme=radical">
+</div>
 
 ---
 
