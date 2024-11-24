@@ -1,43 +1,47 @@
-# 🎵 A musician who hacks computers 💻
+# 🎵 A Musician Who Hacks Computers 💻
 
-Hi there! I'm a cybersecurity enthusiast, NextJS expert, and electronic music producer, always eager to explore the intersection of technology and creativity.
+Hi there! I'm a cybersecurity enthusiast, Next.js expert, and electronic music producer, always eager to explore the intersection of technology and creativity.
 
-## About Me
-- 🎹 Crafting beats and melodies in the digital realm
-- 🔐 Delving into the world of cybersecurity
-- 🧠 Perpetual learner, constantly seeking new knowledge
-- 🔬 Exploring cutting-edge tech, novel ideas, and thought-provoking concepts
-- 📚 Currently a student, embracing the learning journey
-- 🚀 Leveraging Supabase for databases and Vercel for deployments
+---
 
-## Programming Languages
-- Java
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- C++
-- C (Basics)
+## 🎧 About Me
+- 🎹 **Crafting beats and melodies** in the digital realm as an electronic music producer.
+- 🔐 Passionate about **cybersecurity** and uncovering vulnerabilities.
+- 🧠 **Perpetual learner**: Constantly seeking to expand my knowledge and skillset.
+- 🔬 Exploring **cutting-edge technologies**, novel ideas, and thought-provoking concepts.
+- 📚 A student embracing the journey of discovery and learning.
+- 🚀 Leveraging **Supabase** for databases and **Vercel** for seamless deployments.
 
-I thrive on the excitement of discovering new technologies and pushing the boundaries of what's possible. Whether producing a track or dissecting a security vulnerability, I bring the same passion and curiosity to everything I do.
+---
 
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about music, tech, or anything in between!
+## 💻 Programming Languages & Tools
+- **Languages**: JavaScript, TypeScript, Java, HTML, CSS, C++, C (Basics)
+- **Frameworks**: Next.js, React
+- **Databases**: Supabase, Firebase
+- **Deployment Platforms**: Vercel, Netlify
 
-## GitHub Stats
+---
 
-<style>
-  .center-stats {
-    display: flex;
-    justify-content: center;
-  }
-</style>
+## 🎶 My Music
+When I’m not coding, you’ll find me producing electronic music. I go by the artist name **The Messengers**, blending genres like electronic, orchestral, future bass, house, and pop. 🚀
 
-<div class="center-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebdootManna&theme=radical">
-  <img src="https://github-profile-trophy.vercel.app/?username=DebdootManna&theme=onestar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdootManna&layout=compact&theme=radical">
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebdootManna&theme=radical" alt="GitHub Streak Stats">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=DebdootManna&theme=onestar" alt="GitHub Trophies">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdootManna&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
 
-I like to learn new things. Technology is my favorite part. Currently a student (learning stages), exploring new ideas, concepts and "controversial theories".
+## 🧠 Interests & Philosophy
+I thrive on the excitement of discovering new technologies and pushing the boundaries of what’s possible. Whether I’m producing a track or dissecting a security vulnerability, I bring the same passion and curiosity to everything I do.
+
+---
+
+Feel free to explore my repositories, and don’t hesitate to reach out if you want to collaborate on a project or chat about music, tech, or anything in between!
