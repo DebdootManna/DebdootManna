@@ -15,10 +15,10 @@ Hi there! I'm a cybersecurity enthusiast, Next.js expert, and electronic music p
 ---
 
 ## 💻 Programming Languages & Tools
-- **Languages**: JavaScript, TypeScript, Java, HTML, CSS, C++, C (Basics)
+- **Languages**: Python, JavaScript, TypeScript, Java, HTML, CSS, C++, C (Basics)
 - **Frameworks**: Next.js, React
 - **Databases**: Supabase, Firebase
-- **Deployment Platforms**: Vercel, Netlify
+- **Deployment Platforms**: Vercel, Netlify, Cloudflare
 
 ---
 
