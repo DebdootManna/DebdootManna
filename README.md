@@ -30,7 +30,7 @@ When I’m not coding, you’ll find me producing electronic music. I go by the 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebdootManna&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=DebdootManna&theme=radical" alt="GitHub Streak Stats">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebdootManna&theme=radical" alt="GitHub Profile Summary">
   <br>
