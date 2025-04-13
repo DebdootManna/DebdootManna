@@ -43,7 +43,8 @@
 - 🎧 Tools: **FL Studio**, **Ableton Live** (because of *this...* ↓)
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFvcGZmczJmZXp4bWh3eWtkYXh5MXY1MGhpcnU0ZGwxbHoyM3U0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fYIinGYICDAy92Uv5R/giphy.gif" width="400" alt="I bought Ableton the next day">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJsd2lrbjVvamprOW52aWl5MnhjaTRuMWxvMnNzZnZqcDhhanc0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsjXZzyi16fDF4I/giphy.gif">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5NDE5emdvNGNldHRyaHlnaTRkdDJ4c2c5bzFsYmNwNW5lbnJ1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Exb0fO5ovcYPWb6/giphy.gif">
 </p>
 
 > Sound engineers weep. Aliens dance. I call it a fair trade.
