@@ -84,11 +84,12 @@
 
 ---
 
-## 🛰️ Find Me on the Interwebs
+## 🌐 Digital Footprint (No Cookie Consent Required)
 
-| 🌐 Website | 🎵 Music | 💬 Contact |
-|-----------|----------|------------|
-| [debdootmanna.me](https://debdootmanna.me) | [Spotify](https://open.spotify.com/album/26QlxsORL2Yh7zPt8Xh6gj?si=6DLw-KgBS12yuIMeMuvuhA) | Open an issue & shout in all caps |
+| 🌍 Portfolio               | 💡 Projects | 🎵 Music      | ☕ Chat      |
+|---------------------------|-------------|---------------|-------------|
+| [debdootmanna.me](https://debdootmanna.me) | See Repos    | [Spotify](https://open.spotify.com/album/26QlxsORL2Yh7zPt8Xh6gj?si=6DLw-KgBS12yuIMeMuvuhA) | [Instagram](https://www.instagram.com/themessengersmusic/) |
+## 🛰️ Find Me on the Interwebs
 
 ---
 
