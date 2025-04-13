@@ -77,7 +77,8 @@
 ## 🔥 Fun Facts (You asked for sarcasm, so here it is)
 
 - My **Mac cries** every time I open Canva + Google Sheets + 20 Chrome tabs.
-- I use **Arc on Mac** and **Chrome on Android**, because why not be cross-dimensional?
+- I use **Chrome, Brave & Tor on Mac** and **Samsung Internet on...well..my Samsung Phone**, because why not be cross-dimensional?
+- I use **Windows** on my Mac cause why not?
 - I prefer **dark mode extensions** that don't fight YouTube's own dark mode like two toddlers.
 - I **don’t trust Edge**, and I use iCloud Keychain even though everyone says otherwise.
 - I code like it’s 3025 but vibe like it’s 1985. 🕺
