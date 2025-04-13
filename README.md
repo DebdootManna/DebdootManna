@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://debdootmanna.me/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Intergalactic+musician+%26+full-stack+magician;Sarcasm-driven+AI+whisperer;Ableton+Live+Wizard+%F0%9F%8E%B5;Next.js%20Addict%20%7C%20;Cybersecurity%20Fanboy;All+hail+the+Vercel+deploy+button!&center=true&width=600&height=45&color=ff6f61&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Intergalactic+musician+%26+full-stack+magician;Sarcasm-driven+AI+whisperer;Ableton+Live+Wizard+%F0%9F%8E%B5;Next.js%20Addict%20%7C%20Cybersecurity%20Fanboy;All+hail+the+Vercel+deploy+button!&center=true&width=600&height=45&color=ff6f61&vCenter=true&size=22">
   </a>
 </p>
 
