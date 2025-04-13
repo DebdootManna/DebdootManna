@@ -1,24 +1,26 @@
 <!-- README.md -->
 
-<h1 align="center">🎛️ Debdoot Manna – Developer, Musician, Chaos Enthusiast 🎶</h1>
+<!-- DO NOT READ THIS FILE UNLESS YOU’RE READY TO HAVE YOUR MIND BLOWN -->
+
+<h1 align="center">🎩 Debdoot Manna: The One Who Codes & Drops Beats ⚡</h1>
 
 <p align="center">
-  <a href="https://debdootmanna.me" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Musician+who+hacks+%F0%9F%92%BB;Cybersecurity+is+my+flavor+of+spice+%F0%9F%94%AE;Next.js+is+my+spirit+animal+%E2%9A%A1;Ableton+Live+Wizard+%F0%9F%8E%B5;All+hail+the+Vercel+deploy+button!&center=true&width=700&height=45&color=ff6f61&vCenter=true&size=22">
+  <a href="https://debdootmanna.me/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Intergalactic+musician+%26+full-stack+magician;Sarcasm-driven+AI+whisperer;Ableton+Live+Wizard+%F0%9F%8E%B5;Next.js%20Addict%20%7C%20Cybersecurity%20Fanboy;All+hail+the+Vercel+deploy+button!&center=true&width=600&height=45&color=ff6f61&vCenter=true&size=22">
   </a>
 </p>
 
 ---
 
-## 🤘 Who's This Guy?
+## 🧠 Who Am I? (Spoiler: Better than your average human)
 
-> *Just a casual interstellar traveler who codes stuff, makes beats, and breaks things for security.*
+> *"I hack computers for fun and produce music that could summon aliens."*
 
-- 🧠 CS student by profession, full-stack mischief-maker by passion
-- 🎹 Goes by **The Messengers** in the music world — genres be damned
-- 💣 Cybersecurity buff — I break stuff *so others don’t have to* (except when I break production, oops)
-- 🔭 Deep-diving into cutting-edge tech like Supabase, LLMs, Jetson Nano, and sleep-deprived deployments
-- 🌐 Website that actually looks cool: [debdootmanna.me](https://debdootmanna.me)
+- 🧙‍♂️ Developer by day, space DJ by night (a.k.a **The Messengers** 🚀)
+- 🔥 Specializes in Next.js because vanilla JS is too mainstream
+- 🧨 Cybersecurity enthusiast—because breaking things is *way* more fun than fixing them
+- 🎛️ Drops sick beats in genres that don’t even exist yet (yeah, that avant-garde)
+- 🌌 Currently coding and composing somewhere in the multiverse (also known as Earth)
 
 ---
 
@@ -31,70 +33,62 @@
 | HTML, CSS             | Framer Motion, Zustand, Axios   | Fireproof™ Notion Tables     | Fly.io (used once, regretted it) | VS Code (theme: catppuccin)            |
 
 > ⚠️ Warning: This stack is legally classified as Overkill™ in 6 countries.
+---
+
+## 🎶 Music? Oh Yeah, I Do That Too
+
+> **Artist Name:** *The Messengers*  
+> Genre Fusion: Electronic + Orchestral + Future Bass + House + Pop = Mind blown.  
+> Listen responsibly. Side effects may include dancing uncontrollably or questioning reality.
+
+![Music Vibes](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 ---
 
-## 🎶 The Messengers – Music That Summons UFOs
-
-> Yes, I produce music. No, it’s not your average EDM.
-
-- 💽 Genres? Try Electronic x Orchestral x Future Bass x House x Pop x ????
-- 🎧 Tools: **FL Studio**, **Ableton Live** (because of *this meme* ↓)
+## 📈 GitHub Flex (Not humble, just factual)
 
 <p align="center">
-  <img src="https://i.redd.it/2k1x6ip1fks41.jpg" width="400" alt="I bought Ableton the next day">
+  <img src="https://streak-stats.demolab.com/?user=DebdootManna&theme=radical&fire=ff6f61&sideNums=ffffff" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebdootManna&theme=radical" alt="Profile Summary" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdootManna&layout=compact&theme=radical&hide=html" alt="Top Langs" />
 </p>
 
-> Sound engineers weep. Aliens dance. I call it a fair trade.
+> These graphs are not flexing. They're just... informative bragging. 📊
 
 ---
 
-## 📈 GitHub Flex (Let the Numbers Talk)
+## 🧪 Current Experiments
+
+- Building the **coolest free MetaMask alternative** in town (move over, Web3 wizards)
+- Taming the **Jetson Nano** and **Raspberry Pi Pico 5** into doing *smart stuff*
+- Syncing GitHub ↔ GitLab like a ninja with no prior knowledge
+- Creating **ping pong games** to secretly teach Python to humans and bots alike
+
+---
+
+## 🔥 Fun Facts (You asked for sarcasm, so here it is)
+
+- My **Mac cries** every time I open Canva + Google Sheets + 20 Chrome tabs.
+- I use **Arc on Mac** and **Chrome on Android**, because why not be cross-dimensional?
+- I prefer **dark mode extensions** that don't fight YouTube's own dark mode like two toddlers.
+- I **don’t trust Edge**, and I use iCloud Keychain even though everyone says otherwise.
+- I code like it’s 3025 but vibe like it’s 1985. 🕺
+
+---
+
+## 🛰️ Find Me on the Interwebs
+
+| 🌐 Website | 🎵 Music | 💬 Contact |
+|-----------|----------|------------|
+| [debdootmanna.me](https://debdootmanna.me) | [Spotify](https://open.spotify.com/album/26QlxsORL2Yh7zPt8Xh6gj?si=6DLw-KgBS12yuIMeMuvuhA) | Open an issue & shout in all caps |
+
+---
+
+> *"Stay curious. Stay sarcastic. Ship weird things. Drop weird beats."*  
+> — Debdoot a.k.a. The Messengers 👾
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DebdootManna&theme=radical&fire=ff6f61&sideNums=ffffff" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebdootManna&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdootManna&layout=compact&theme=radical&hide=html" />
-</p>
-
-> Those graphs? Pure serotonin.
-
----
-
-## 🧪 Experimental Madness
-
-- 🎮 Building a Ping Pong game that also teaches Python, because why not?
-- 🔐 Learning GitHub-to-GitLab sync like it’s ancient forbidden magic
-- 🤖 Trying to make a MetaMask killer with React + Vite + TypeScript (but free!)
-- 🧱 Raspberry Pi Pico 5 + Jetson Nano = DIY robot overlord project in progress
-
----
-
-## 🦾 True Opinions™️
-
-- I use **Arc on Mac** and **Chrome on Android**. Deal with it.
-- I like **dark mode extensions** that don’t *double dark mode YouTube* into oblivion.
-- **iCloud Passwords** > Third-party managers. Come at me.
-- **Edge** is like that one friend who pretends to care about privacy. No thanks.
-- Battery life > everything. My MacBook agrees. 😩🔋
-
----
-
-## 🌐 Digital Footprint (No Cookie Consent Required)
-
-| 🌍 Portfolio               | 💡 Projects | 🎵 Music      | ☕ Chat      |
-|---------------------------|-------------|---------------|-------------|
-| [debdootmanna.me](https://debdootmanna.me) | See Repos    | SoundCloud soon™ | Open an Issue |
-
----
-
-## 🧠 Motto to Live By
-
-> *“Stay curious. Stay sarcastic. Break boundaries. Drop bangers.”*  
-> — Debdoot aka The Messengers 👽
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41K3o5TzvmXJSh7W/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l41K3o5TzvmXJSh7W/giphy.gif" width="300"/>
 </p>
