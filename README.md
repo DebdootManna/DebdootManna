@@ -40,7 +40,7 @@
 > Yes, I produce music. No, it’s not your average EDM.
 
 - 💽 Genres? Try Electronic x Orchestral x Future Bass x House x Pop x ????
-- 🎧 Tools: **FL Studio**, **Ableton Live** (because of *this...* ↓)
+- 🎧 Tools: **ex-FL Studio Producer**, now **Ableton Live** (yeah, this is *my workflow...* ↓)
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJsd2lrbjVvamprOW52aWl5MnhjaTRuMWxvMnNzZnZqcDhhanc0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsjXZzyi16fDF4I/giphy.gif">
