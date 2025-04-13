@@ -101,6 +101,11 @@
   <img src="https://media.giphy.com/media/l41K3o5TzvmXJSh7W/giphy.gif" width="300"/>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=DebdootManna&style=flat-square&color=ff6f61" alt="Profile views" />
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DebdootManna&style=flat-square&color=ff6f61" alt="Profile views"/>
+  <br>
+  <sub>Yes, someone's watching... 👀</sub>
 </p>
+
