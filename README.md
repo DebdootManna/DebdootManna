@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://debdootmanna.me" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Musician+who+hacks+%F0%9F%92%BB;Cybersecurity+is+my+flavor+of+spice+%F0%9F%94%AE;Next.js+is+my+spirit+animal+%E2%9A%A1;FL+Studio+Wizard+%F0%9F%8E%B5;All+hail+the+Vercel+deploy+button!&center=true&width=700&height=45&color=ff6f61&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Musician+who+hacks+%F0%9F%92%BB;Cybersecurity+is+my+flavor+of+spice+%F0%9F%94%AE;Next.js+is+my+spirit+animal+%E2%9A%A1;Ableton+Live+Wizard+%F0%9F%8E%B5;All+hail+the+Vercel+deploy+button!&center=true&width=700&height=45&color=ff6f61&vCenter=true&size=22">
   </a>
 </p>
 
