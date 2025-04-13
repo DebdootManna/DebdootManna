@@ -1,16 +1,96 @@
-## Hi there 👋
+<!-- README.md -->
 
-<!--
-**DebdootManna/DebdootManna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- DO NOT READ THIS FILE UNLESS YOU’RE READY TO HAVE YOUR MIND BLOWN -->
 
-Here are some ideas to get you started:
+<h1 align="center">🎩 Debdoot Manna: The One Who Codes & Drops Beats ⚡</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://debdootmanna.me/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Intergalactic+musician+%26+full-stack+magician;Sarcasm-driven+AI+whisperer;Next.js%20Addict%20%7C%20Cybersecurity%20Fanboy&center=true&width=600&height=45&color=ff6f61&vCenter=true&size=22">
+  </a>
+</p>
+
+---
+
+## 🧠 Who Am I? (Spoiler: Better than your average human)
+
+> *"I hack computers for fun and produce music that could summon aliens."*
+
+- 🧙‍♂️ Developer by day, space DJ by night (a.k.a **The Messengers** 🚀)
+- 🔥 Specializes in Next.js because vanilla JS is too mainstream
+- 🧨 Cybersecurity enthusiast—because breaking things is *way* more fun than fixing them
+- 🎛️ Drops sick beats in genres that don’t even exist yet (yeah, that avant-garde)
+- 🌌 Currently coding and composing somewhere in the multiverse (also known as Earth)
+
+---
+
+## ⚙️ Tech Stack (a.k.a the sauce)
+
+| Languages       | Frameworks/Libraries         | Databases        | Deployment                |
+|-----------------|------------------------------|------------------|---------------------------|
+| JavaScript 🧠   | Next.js ⚡, React 🤯, Vite 🚀 | Supabase 💾, Firebase 🔥 | Vercel 🪄, Netlify 🌐, Cloudflare ☁️ |
+| TypeScript 🤓   | Node.js 🤘                  |                  |                           |
+| Python 🐍       |                              |                  |                           |
+| Java ☕️, C++ 🧬 |                              |                  |                           |
+
+> Bonus: Can write HTML with eyes closed. Can crash production with one line of CSS.
+
+---
+
+## 🎶 Music? Oh Yeah, I Do That Too
+
+> **Artist Name:** *The Messengers*  
+> Genre Fusion: Electronic + Orchestral + Future Bass + House + Pop = Mind blown.  
+> Listen responsibly. Side effects may include dancing uncontrollably or questioning reality.
+
+![Music Vibes](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+
+---
+
+## 📈 GitHub Flex (Not humble, just factual)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DebdootManna&theme=radical&fire=ff6f61&sideNums=ffffff" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebdootManna&theme=radical" alt="Profile Summary" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdootManna&layout=compact&theme=radical&hide=html" alt="Top Langs" />
+</p>
+
+> These graphs are not flexing. They're just... informative bragging. 📊
+
+---
+
+## 🧪 Current Experiments
+
+- Building the **coolest free MetaMask alternative** in town (move over, Web3 wizards)
+- Taming the **Jetson Nano** and **Raspberry Pi Pico 5** into doing *smart stuff*
+- Syncing GitHub ↔ GitLab like a ninja with no prior knowledge
+- Creating **ping pong games** to secretly teach Python to humans and bots alike
+
+---
+
+## 🔥 Fun Facts (You asked for sarcasm, so here it is)
+
+- My **Mac cries** every time I open Canva + Google Sheets + 20 Chrome tabs.
+- I use **Arc on Mac** and **Chrome on Android**, because why not be cross-dimensional?
+- I prefer **dark mode extensions** that don't fight YouTube's own dark mode like two toddlers.
+- I **don’t trust Edge**, and I use iCloud Keychain even though everyone says otherwise.
+- I code like it’s 3025 but vibe like it’s 1985. 🕺
+
+---
+
+## 🛰️ Find Me on the Interwebs
+
+| 🌐 Website | 🎵 Music | 💬 Contact |
+|-----------|----------|------------|
+| [debdootmanna.me](https://debdootmanna.me) | SoundCloud incoming... maybe? | Open an issue & shout in all caps |
+
+---
+
+> *"Stay curious. Stay sarcastic. Ship weird things. Drop weird beats."*  
+> — Debdoot a.k.a. The Messengers 👾
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41K3o5TzvmXJSh7W/giphy.gif" width="300"/>
+</p>
