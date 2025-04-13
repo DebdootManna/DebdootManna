@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://debdootmanna.me/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Intergalactic+musician+%26+full-stack+magician;Sarcasm-driven+AI+whisperer;Ableton+Live+Wizard+%F0%9F%8E%B5;Next.js%20Addict%20%7C%20Cybersecurity%20Fanboy;All+hail+the+Vercel+deploy+button!&center=true&width=600&height=45&color=ff6f61&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Intergalactic+musician+%26+full-stack+magician;Sarcasm-driven+AI+whisperer;Ableton+Live+Wizard+%F0%9F%8E%B5;Next.js%20Addict%20%7C%20;Cybersecurity%20Fanboy;All+hail+the+Vercel+deploy+button!&center=true&width=600&height=45&color=ff6f61&vCenter=true&size=22">
   </a>
 </p>
 
@@ -30,18 +30,23 @@
 |---------------------|----------------------------------|-----------------------------|----------------------------------|----------------------------------------|
 | JavaScript, TypeScript | Next.js, React, Vite, Node.js     | Supabase, Firebase, MongoDB | Vercel, Netlify, Cloudflare      | Git, GitHub, GitLab                    |
 | Python, Java, C++, C   | Express.js, Tailwind, Chakra UI  | PlanetScale, Redis, SQLite  | Docker (sometimes), Heroku, Railway | Postman, Thunder Client, Figma         |
-| HTML, CSS             | Framer Motion, Zustand, Axios   | Fireproof™ Notion Tables     | Fly.io (used once, regretted it) | VS Code (theme: catppuccin)            |
+| HTML, CSS             | Framer Motion, Zustand, Axios   | Fireproof™ Notion Tables     | Fly.io (used once, regretted it) | VS Code (theme: bearded)            |
 
 > ⚠️ Warning: This stack is legally classified as Overkill™ in 6 countries.
 ---
 
-## 🎶 Music? Oh Yeah, I Do That Too
+## 🎶 The Messengers – Music That Summons UFOs
 
-> **Artist Name:** *The Messengers*  
-> Genre Fusion: Electronic + Orchestral + Future Bass + House + Pop = Mind blown.  
-> Listen responsibly. Side effects may include dancing uncontrollably or questioning reality.
+> Yes, I produce music. No, it’s not your average EDM.
 
-![Music Vibes](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+- 💽 Genres? Try Electronic x Orchestral x Future Bass x House x Pop x ????
+- 🎧 Tools: **FL Studio**, **Ableton Live** (because of *this meme* ↓)
+
+<p align="center">
+  <img src="[https://i.redd.it/2k1x6ip1fks41.jpg](https://www.youtube.com/watch?v=AHAm7B96Cnc)" width="400" alt="I bought Ableton the next day">
+</p>
+
+> Sound engineers weep. Aliens dance. I call it a fair trade.
 
 ---
 
