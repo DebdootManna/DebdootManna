@@ -43,8 +43,8 @@
 - 🎧 Tools: **ex-FL Studio Producer**, now **Ableton Live** (yeah, this is *my workflow...* ↓)
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/hh2YkD91DC4AAAAC/ableton.gif" width="400">
-  <img src="https://media1.tenor.com/m/yLyNFJ4-Hl0AAAAC/ott-eminem.gif" height="344" width="400">
+  <img src="https://media1.tenor.com/m/hh2YkD91DC4AAAAC/ableton.gif" width="300">
+  <img src="https://media1.tenor.com/m/yLyNFJ4-Hl0AAAAC/ott-eminem.gif" height="255" width="300">
 </p>
 
 > Sound engineers weep. Aliens dance. I call it a fair trade.
