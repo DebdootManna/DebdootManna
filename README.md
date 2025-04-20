@@ -77,7 +77,7 @@
 ## 🔥 Fun Facts (You asked for sarcasm, so here it is)
 
 - My **Mac cries** every time I open Canva + Google Sheets + 20 Chrome tabs.
-- I use **Opera, Brave & Tor on Mac** and **Samsung Internet on...well..my Samsung Phone**, because why not be cross-dimensional?
+- I use **Vivaldi & Tor on Mac** and **Samsung Internet on...well..my Samsung Phone**, because why not be cross-dimensional?
 - I use **Windows** on my Mac cause why not?
 - I prefer **dark mode extensions** that don't fight YouTube's own dark mode like two toddlers.
 - I **don’t trust Edge**, and I use iCloud Keychain even though everyone says otherwise.
