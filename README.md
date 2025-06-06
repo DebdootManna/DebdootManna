@@ -88,7 +88,7 @@
 
 | 🌍 Portfolio               | 💡 Projects | 🎵 Music      | ☕ Chat      |
 |---------------------------|-------------|---------------|-------------|
-| [debdootmanna.me](https://debdootmanna.me) | See Repos    | [Spotify](https://open.spotify.com/album/26QlxsORL2Yh7zPt8Xh6gj?si=6DLw-KgBS12yuIMeMuvuhA) | [Instagram](https://www.instagram.com/themessengersmusic/) |
+| [debdootmanna.me](https://debdootmanna.me) | See Repos    | [Spotify](https://open.spotify.com/artist/4Qg7QIwls6l62i1n7Den92?si=NT26H3IZQLGw5xvFiQNDLg) | [Instagram](https://www.instagram.com/themessengersmusic/) |
 ## 🛰️ Find Me on the Interwebs
 
 ---
