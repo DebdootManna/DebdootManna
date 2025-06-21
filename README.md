@@ -67,10 +67,11 @@
 
 ## 🧪 Current Experiments
 
-- Building the **coolest free MetaMask alternative** in town (move over, Web3 wizards)
+- Building the **coolest free AI Applications** in town (becoming an AI wizard)
 - Taming the **Jetson Nano** and **Raspberry Pi Pico 5** into doing *smart stuff*
 - Syncing GitHub ↔ GitLab like a ninja with no prior knowledge
-- Creating **ping pong games** to secretly teach Python to humans and bots alike
+- Flashing everyone's **secrets** through simple tools.
+- Creating **overrated games** like the memory game and stuff to secretly teach "fun" to humans and bots alike
 
 ---
 
@@ -78,8 +79,7 @@
 
 - My **Mac cries** every time I open Canva + Google Sheets + 20 Chrome tabs.
 - I use **Windows** on my Mac cause why not?
-- I prefer **dark mode extensions** that don't fight YouTube's own dark mode like two toddlers.
-- I **don’t trust Edge**, and I use iCloud Keychain even though everyone says otherwise.
+- I use 100+ AI tools to build tools and to prove **Robots > Humans**
 - I code like it’s 3025 but vibe like it’s 1985. 🕺
 
 ---
