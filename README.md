@@ -2,7 +2,7 @@
 
 <!-- DO NOT READ THIS FILE UNLESS YOU’RE READY TO HAVE YOUR MIND BLOWN -->
 
-<h1 align="center">🎩 Debdoot Manna: The One Who Codes & Drops Beats ⚡</h1>
+<h1 align="center">🎩 Debdoot Manna: The Only Sane Vibe Coder ⚡</h1>
 
 <p align="center">
   <a href="https://debdootmanna.me/" target="_blank">
