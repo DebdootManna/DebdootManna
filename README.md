@@ -28,9 +28,9 @@
 
 | 🧠 Languages         | ⚡ Frameworks & Libraries        | 🗄️ Databases               | ☁️ Deployment / DevOps         | 🔧 Tools & Extras                     |
 |---------------------|----------------------------------|-----------------------------|----------------------------------|----------------------------------------|
-| JavaScript, TypeScript | Next.js, React, Vite, Node.js     | Supabase, Firebase, MongoDB | Vercel, Netlify, Cloudflare      | Git, GitHub, GitLab                    |
-| Python, Java, C++, C   | Express.js, Tailwind, Chakra UI  | PlanetScale, Redis, SQLite  | Docker (sometimes), Heroku, Railway | Postman, Thunder Client, Figma         |
-| HTML, CSS             | Framer Motion, Zustand, Axios   | Fireproof™ Notion Tables     | Fly.io (used once, regretted it) | VS Code (theme: bearded)            |
+| JavaScript, TypeScript | Next.js, React, Vite, Node.js     | Supabase, Firebase, MongoDB | Vercel, Render, Cloudflare, Netlify      | Git, GitHub, GitLab                    |
+| Python, Java, C++, C   | Express.js, Tailwind, Chakra UI  | PlanetScale, Redis, SQLite  | Docker, Heroku, Railway | Postman, Thunder Client, Figma         |
+| HTML, CSS             | Framer Motion, Zustand, Axios   | Fireproof™ Notion Tables     | Fly.io (used once, regretted it) | VS Code (theme: catpuccin)            |
 
 > ⚠️ Warning: This stack is legally classified as Overkill™ in 6 countries.
 ---
