@@ -8,36 +8,37 @@
 
 ---
 
-## About Me
+## Current Focus
 
-I'm a computer science student focused on building AI systems that actually work in the real world. My work sits at the intersection of machine learning, privacy, and systems engineering.
-
-**Current Focus:**
-- Privacy-preserving ML (Homomorphic Encryption, MPC, Differential Privacy)
-- Edge AI and model optimization (NVIDIA Jetson, Raspberry Pi)
-- Full-stack ML applications that survive outside notebooks
-
-**Side Quest:** Producing music as [The Messengers](https://open.spotify.com/artist/4Qg7QIwls6l62i1n7Den92?si=NT26H3IZQLGw5xvFiQNDLg)
+| Area | Technologies |
+|------|-------------|
+| **Privacy-Preserving ML** | Homomorphic Encryption, MPC, Differential Privacy |
+| **Edge AI & Optimization** | NVIDIA Jetson Nano, Raspberry Pi 5, Model Deployment |
+| **Full-Stack ML Applications** | Production-ready systems beyond notebooks |
 
 ---
 
 ## Tech Stack
 
-**AI/ML:** PyTorch • NumPy • Pandas • OpenCV • YOLO  
-**Backend:** Node.js • Next.js • Express • Supabase • MongoDB  
-**Frontend:** React • Vite • Tailwind  
-**Mobile:** Flutter (Dart)  
-**Languages:** Python • JavaScript/TypeScript • SQL • C/C++ • Java  
-**Tools:** VS Code • Zed • WezTerm • macOS (with a Linux mindset)
+| Category | Technologies |
+|----------|-------------|
+| **AI/ML** | PyTorch • NumPy • Pandas • OpenCV • YOLO |
+| **Backend** | Node.js • Next.js • Express • Supabase • MongoDB |
+| **Frontend** | React • Vite • Tailwind |
+| **Mobile** | Flutter (Dart) |
+| **Languages** | Python • JavaScript/TypeScript • SQL • C/C++ • Java |
+| **Tools** | VS Code • Zed • WezTerm • macOS (Linux mindset) |
 
 ---
 
 ## What I'm Building
 
-- ML-powered web applications with real backend integration
-- Privacy-focused distributed learning systems
-- Edge AI experiments on Jetson Nano and Raspberry Pi 5
-- Restaurant/business management systems (Node.js + Supabase/MongoDB)
+| Project Type | Stack |
+|--------------|-------|
+| **ML-Powered Web Apps** | PyTorch + Next.js + Supabase |
+| **Privacy-Focused Distributed Learning** | HE + MPC + Edge Computing |
+| **Edge AI Experiments** | Jetson Nano + Raspberry Pi 5 |
+| **Business Management Systems** | Node.js + MongoDB/Supabase |
 
 ---
 
@@ -60,14 +61,6 @@ I'm a computer science student focused on building AI systems that actually work
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
----
-
-## Connect
-
-**Portfolio:** [debdootmanna.me](https://debdootmanna.me)  
-**Music:** [The Messengers on Spotify](https://open.spotify.com/artist/4Qg7QIwls6l62i1n7Den92?si=NT26H3IZQLGw5xvFiQNDLg)  
-**Instagram:** [@themessengersmusic](https://www.instagram.com/themessengersmusic/)
 
 ---
 
