@@ -45,7 +45,7 @@
 ## Currently Listening To
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bgd3ve4lnmo7gomoh27nkfj5zm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31265n3mpcnlce72moxha2uj75my&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
 
 ---
