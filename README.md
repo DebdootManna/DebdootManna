@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <i>🎧 Check out my <a href="https://open.spotify.com/user/31265n3mpcnlce72moxha2uj75my">Spotify profile</a></i>
-</p>
-
 ---
 
 <p align="center">
