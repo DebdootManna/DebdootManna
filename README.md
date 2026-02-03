@@ -6,42 +6,6 @@
   </a>
 </p>
 
----
-
-## Current Focus
-
-| Area | Technologies |
-|------|-------------|
-| **Privacy-Preserving ML** | Homomorphic Encryption, MPC, Differential Privacy |
-| **Edge AI & Optimization** | NVIDIA Jetson Nano, Raspberry Pi 5, Model Deployment |
-| **Full-Stack ML Applications** | Production-ready systems beyond notebooks |
-
----
-
-## Tech Stack
-
-| Category | Technologies |
-|----------|-------------|
-| **AI/ML** | PyTorch • NumPy • Pandas • OpenCV • YOLO |
-| **Backend** | Node.js • Next.js • Express • Supabase • MongoDB |
-| **Frontend** | React • Vite • Tailwind |
-| **Mobile** | Flutter (Dart) |
-| **Languages** | Python • JavaScript/TypeScript • SQL • C/C++ • Java |
-| **Tools** | VS Code • Zed • WezTerm • macOS (Linux mindset) |
-
----
-
-## What I'm Building
-
-| Project Type | Stack |
-|--------------|-------|
-| **ML-Powered Web Apps** | PyTorch + Next.js + Supabase |
-| **Privacy-Focused Distributed Learning** | HE + MPC + Edge Computing |
-| **Edge AI Experiments** | Jetson Nano + Raspberry Pi 5 |
-| **Business Management Systems** | Node.js + MongoDB/Supabase |
-
----
-
 ## Currently Listening To
 
 <p align="center">
