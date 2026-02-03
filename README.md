@@ -9,9 +9,13 @@
 ## 🎵 Currently Listening To
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31265n3mpcnlce72moxha2uj75my" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31265n3mpcnlce72moxha2uj75my&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+  <a href="https://open.spotify.com/user/31265n3mpcnlce72moxha2uj75my">
+    <img src="https://.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
   </a>
+</p>
+
+<p align="center">
+  <i>⚠️ Note: Replace 'novatorem-debdootmanna' with your actual Vercel deployment URL once set up</i>
 </p>
 
 ---
