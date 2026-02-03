@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <i>⚠️ Note: Replace 'novatorem-debdootmanna' with your actual Vercel deployment URL once set up</i>
-</p>
-
 ---
 
 <p align="center">
