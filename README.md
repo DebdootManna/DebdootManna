@@ -16,11 +16,11 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://media.giphy.com/media/l41K3o5TzvmXJSh7W/giphy.gif" width="300"/>
 </p>
 
----
+----->
 
 ## Daily Philosophy
 
