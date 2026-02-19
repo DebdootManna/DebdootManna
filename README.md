@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## Currently Listening To
+## In sync with...
 
 <p align="center">
   <a href="https://open.spotify.com/user/31265n3mpcnlce72moxha2uj75my">
@@ -22,7 +22,7 @@
 
 ----->
 
-## Daily Philosophy
+## Wisdom Bites
 
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=socrates&animation=grow_out_in" alt="Random Dev Quote" />
