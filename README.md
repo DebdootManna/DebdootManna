@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 🎵 Currently Listening To
+## Currently Listening To
 
 <p align="center">
   <a href="https://open.spotify.com/user/31265n3mpcnlce72moxha2uj75my">
@@ -25,7 +25,7 @@
 ## Daily Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=socrates&animation=grow_out_in" alt="Random Dev Quote" />
 </p>
 
 ---
