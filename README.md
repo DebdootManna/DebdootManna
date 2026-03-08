@@ -1,7 +1,7 @@
 <h1 align="center">Debdoot Manna</h1>
 
 <p align="center">
-  <a href="https://debdootmanna.me/" target="_blank">
+  <a href="https://debdootmanna.codes/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+%7C+AI+Researcher+%7C+Developer;Privacy-Preserving+ML+Enthusiast;Systems-Minded+Engineer;Music+Producer+as+The+Messengers&center=true&width=600&height=45&color=ff6f61&vCenter=true&size=22">
   </a>
 </p>
