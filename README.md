@@ -34,4 +34,4 @@
   <sub>Building systems that understand privacy. Making music that doesn't.</sub>
 </p>
 
-![DebdootManna's GitHub contributions](https://github.pumbas.net/api/contributions/DebdootManna)
+![DebdootManna's GitHub contributions](https://github.pumbas.net/api/contributions/DebdootManna?colour=FF0000&bgColour=000000&dotColour=950101)
