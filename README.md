@@ -33,3 +33,5 @@
 <p align="center">
   <sub>Building systems that understand privacy. Making music that doesn't.</sub>
 </p>
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DebdootManna&bg_color=03203c&color=5da3fa&line=5da3fa&point=2827cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
