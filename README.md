@@ -1,9 +1,5 @@
-<h1 align="center">Debdoot Manna</h1>
-
-<p align="center">
-  <a href="https://debdootmanna.codes/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+%7C+AI+Researcher+%7C+Developer;Privacy-Preserving+ML+Enthusiast;Systems-Minded+Engineer;Music+Producer+as+The+Messengers&center=true&width=600&height=45&color=ff6f61&vCenter=true&size=22">
-  </a>
+<p align='center'>
+  <img src="https://github.pumbas.net/api/contributions/DebdootManna?colour=273043&amp;bgColour=EFF6EE&amp;dotColour=F02D3A" alt="DebdootManna's GitHub contributions"/>
 </p>
 
 ## My last Spotify track that’s still in my head...
@@ -33,5 +29,3 @@
 <p align="center">
   <sub>Building systems that understand privacy. Making music that doesn't.</sub>
 </p>
-
-![DebdootManna's GitHub contributions](https://github.pumbas.net/api/contributions/DebdootManna?colour=273043&bgColour=EFF6EE&dotColour=F02D3A)
