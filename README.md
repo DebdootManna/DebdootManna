@@ -1,7 +1,3 @@
-## 🌌 My GitHub Universe in 3D
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <p align='center'>
   <img src="https://github.pumbas.net/api/contributions/DebdootManna?colour=273043&amp;bgColour=EFF6EE&amp;dotColour=F02D3A" alt="DebdootManna's GitHub contributions"/>
 </p>
@@ -13,6 +9,10 @@
     <img src="https://novatorem-xi-fawn.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
+
+## My GitHub Universe in 3D
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- --- -->
 
