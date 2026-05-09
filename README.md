@@ -1,7 +1,3 @@
-<p align='center'>
-  <img src="https://github.pumbas.net/api/contributions/DebdootManna?colour=273043&amp;bgColour=EFF6EE&amp;dotColour=F02D3A" alt="DebdootManna's GitHub contributions"/>
-</p>
-
 ## My last Spotify track that’s still in my head...
 
 <p align="center">
