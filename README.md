@@ -8,7 +8,7 @@
 
 ## My GitHub Universe in 3D
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-custom-dark-red-blue.svg)
 
 <!-- --- -->
 
