@@ -20,13 +20,18 @@
 
 ## Wisdom Bites & Stats
 
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in" alt="Random Dev Quote" width="550" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gitfut.com/DebdootManna">
-    <img src="https://gitfut.com/DebdootManna.png" alt="GitFut Card" width="200" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="68%">
+      <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in" alt="Random Dev Quote" width="100%" />
+    </td>
+    <td valign="top" width="32%">
+      <a href="https://gitfut.com/DebdootManna">
+        <img src="https://gitfut.com/DebdootManna.png" alt="GitFut Card" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
