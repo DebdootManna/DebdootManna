@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31265n3mpcnlce72moxha2uj75my">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=30363d" alt="Spotify Now Playing" />
+    <img src="https://img.shields.io/badge/Spotify-Open%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open Spotify Profile" />
   </a>
 </p>
 
@@ -22,9 +22,11 @@
       <img src="./profile-3d-contrib/profile-custom-dark-red-blue.svg" alt="GitHub Universe in 3D" width="100%" />
     </td>
     <td valign="top" width="32%">
-      <a href="https://gitfut.com/DebdootManna">
-        <img src="https://gitfut.com/DebdootManna.png" alt="GitFut Card" width="100%" />
-      </a>
+      <p align="center">
+        <a href="https://gitfut.com/DebdootManna">
+          <img src="https://img.shields.io/badge/GitFut-View%20Card-111111?style=for-the-badge&logo=github&logoColor=white" alt="View GitFut Card" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
