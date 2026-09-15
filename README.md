@@ -1,18 +1,4 @@
-<p align="center">
-  <img src="./profile-3d-contrib/profile-custom-dark-red-blue.svg" alt="GitHub Universe in 3D" width="100%" />
-</p>
-
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in" alt="Random Dev Quote" width="102%" />
-
-<!-- --- -->
-
-<!--<p align="center">
-  <img src="https://media.giphy.com/media/l41K3o5TzvmXJSh7W/giphy.gif" width="300"/>
-</p>
-
------>
-
-<table align="center" width="100%">
+<table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31265n3mpcnlce72moxha2uj75my&amp;redirect=true">
@@ -26,6 +12,20 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-custom-dark-red-blue.svg" alt="GitHub Universe in 3D" width="100%" />
+</p>
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in" alt="Random Dev Quote" width="100%" />
+
+<!-- --- -->
+
+<!--<p align="center">
+  <img src="https://media.giphy.com/media/l41K3o5TzvmXJSh7W/giphy.gif" width="300"/>
+</p>
+
+----->
 
 <br />
 
