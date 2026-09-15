@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31265n3mpcnlce72moxha2uj75my">
-    <img src="https://novatorem-one-tan.vercel.app/api/orchestrator" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31265n3mpcnlce72moxha2uj75my&amp;cover_image=true&amp;theme=novatorem" alt="Spotify Now Playing" />
   </a>
 </p>
 
